@@ -21,7 +21,7 @@ public class outer {
 }
 
 //way 2
-package com.company;
+/*package com.company;
 
 public class outer {
     int n2=20;
@@ -44,3 +44,4 @@ public class outer {
         ob1.display();
     }
 }
+ */
