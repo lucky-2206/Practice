@@ -16,6 +16,6 @@ public class Box {
 
     public static void main(String[] args) {
         Box ob = new Box(7, 15, 12);
-        System.out.println("volume of the box is equal to = "+ob.volume()+" unit cube.");
+        System.out.println("volume of the box is equal to = "+ob.volume()+" unit cube");
     }
 }
